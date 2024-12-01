@@ -11,7 +11,7 @@
 
 ![JP's github stats](https://github-readme-stats.vercel.app/api?username=JP19-03&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JP19-03&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JP19-03)](https://github.com/JP19-03/github-readme-stats)
 
 ## Languages and Tools:
 
