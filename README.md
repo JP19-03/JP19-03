@@ -1,45 +1,92 @@
-### <h1> Hi 👋, I'm JP </h1> ###
-### <h3 align="left">About Me</h3> ###
+# Hi there! 👋 I'm Johan Principe (JP)
 
-- 💬 Ask me about **Vue.js, Spring, JavaScript, Angular**
--  🔭 I’m currently a Software Ingeeniering student at Upc
--  🌱 I’m currently learning **React, Next.js**
--  I'm a 21 year old student
--  I'm apasionate for FullStack development 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%F0%9F%9A%80;Software+Engineering+Student;Passionate+about+Modern+Web+Tech;Always+learning+something+new!" alt="Typing SVG" />
+</div>
 
-## My Stats
+---
 
-![JP's github stats](https://github-readme-stats.vercel.app/api?username=JP19-03&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+## 🚀 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JP19-03)](https://github.com/JP19-03/github-readme-stats)
+🎓 **Software Engineering Student** at UPC  
+💻 **22 years old** passionate about **Full-Stack Development**  
+🌱 Currently diving deep into **React & Next.js**  
+🔥 Love building scalable web applications with modern technologies  
 
-## Languages and Tools:
+### 💬 Ask me about:
+- **Frontend**: Vue.js, Angular, JavaScript, TypeScript, React
+- **Backend**: Spring Framework, Java
+- **Databases**: MySQL, MongoDB
+- **Web Technologies**: HTML5, CSS3
 
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a src="https://java/"><img src="https://img.icons8.com/?size=48&id=13679&format=png&color=000000"/></a>
-<a src="https://www.angular.com/"><img src="https://img.icons8.com/?size=48&id=71257&format=png&color=000000"/></a>
-<a src="https://www.angular.com/"><img src="https://img.icons8.com/?size=48&id=rY6agKizO9eb&format=png&color=000000"/></a>
-<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<img src="https://www.svgrepo.com/show/354380/spring-icon.svg" width=48px />
-<img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width=48px />
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/mongodb-logo-freelogovectors.net_.png" width=48px />
+---
 
+## 🛠️ Tech Stack
 
-<!--
-**JP19-03/JP19-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,angular,react,html,css" alt="Frontend Skills"/>
+</div>
 
-Here are some ideas to get you started:
+### Backend & Databases
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb" alt="Backend Skills"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Environment
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Tools"/>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JP19-03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP19-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JP19-03&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+## 🌟 Current Focus
+
+```javascript
+const currentlyLearning = {
+    frontend: ["React", "Next.js", "TypeScript"],
+    backend: ["Spring Boot", "Microservices"],
+    databases: ["MongoDB", "PostgreSQL"],
+    goals: "Building scalable full-stack applications"
+};
+```
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JP19-03&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📫 Connect with me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:jPrincipe_@outlook.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jp-portfolio-zeta.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JP19-03&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  
+  ### ⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House
+</div>
