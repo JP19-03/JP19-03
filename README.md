@@ -25,12 +25,12 @@
 
 ### Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,angular,react,html,css" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,angular,html,css" alt="Frontend Skills"/>
 </div>
 
 ### Backend & Databases
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nestjs,java,spring,postgresql,mysql,mongodb" alt="Backend Skills"/>
 </div>
 
 ### Tools & Environment
